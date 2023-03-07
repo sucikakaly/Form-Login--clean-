@@ -1,0 +1,104 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #5156be;
+  font-family: sans-serif;
+  color: #545a60;
+}
+
+.container {
+  width: 600px;
+  margin: auto;
+  background-color: white;
+}
+
+.logo {
+  padding-top: 60px;
+}
+
+.title-lms {
+  font-family: sans-serif;
+  font-size: 18px;
+  color: #495057;
+  margin-top: -8px;
+}
+
+.button-version {
+  font-size: 14px;
+  color: white;
+  width: 200px;
+  background-color: #fd625e;
+  margin-top: 70px;
+  border-radius: 5px;
+  box-shadow: 1px 1px 5px #fd625e;
+}
+
+.button-version h4 {
+  padding: 12px;
+}
+
+.form-login {
+  margin-top: 30px;
+  margin-left: 80px;
+}
+
+.form-login input {
+  width: 400px;
+  padding: 12px;
+  border: 1px solid #dadada;
+  border-radius: 3px;
+}
+
+.form-login input [placeholder] {
+  color: #dadada;
+}
+
+.form-login h4 {
+  font-size: 14px;
+  padding: 10px 0;
+}
+
+.form-login .pw {
+  margin-top: 10px;
+}
+
+.enter ::-webkit-input-placeholder {
+  color: salmon;
+}
+
+.recaptcha {
+  width: 350px;
+  margin: 40px 80px;
+  padding: 25px 13px;
+  background-color: #f9f9f9;
+  border: 1px solid #dadada;
+  border-radius: 3px;
+  box-shadow: 1px 1px 8px #dadada;
+  font-size: 15px;
+}
+
+.remember-me {
+  margin: -20px 80px 30px;
+  font-size: 14px;
+}
+
+.login-button {
+  color: white;
+  background-color: #5156be;
+  width: 400px;
+  padding: 12px;
+  border: 1px solid #5156be;
+  border-radius: 3px;
+  box-shadow: 1px 0px 8px #5156be;
+  margin-left: -10px;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-style: normal;
+  font-weight: lighter;
+}
+
+.sign-in {
+  margin: 30px;
+}
