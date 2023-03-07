@@ -100,5 +100,25 @@ body {
 }
 
 .sign-in {
-  margin: 30px;
+  margin: 30px 30px 20px;
+  font-size: 14px;
+}
+
+.login-gmail-button {
+  width: 120px;
+  color: white;
+  background-color: #fd625e;
+  padding: 10px;
+  box-shadow: 1px 0px 8px #fd625e;
+  border-radius: 3px;
+  font-size: 14px;
+  font-weight: lighter;
+  font-style: normal;
+}
+
+.copyright {
+  margin-top: 30px;
+  font-size: 14px;
+  font-family: sans-serif;
+  font-weight: lighter;
 }
